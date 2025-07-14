@@ -28,7 +28,7 @@ function App() {
       </div>
       <div className="container">
         <div className="io-container">
-          <div className="question-row">
+          <div className="question-area">
             <div className="question-label">Question</div>
             <input
               type="text"
